@@ -6,7 +6,15 @@ Welcome to the **AI Cinematic Prompt Director**, an open-source framework proudl
 
 **ai9app.io** is your ultimate generative AI creative platform. You can **use this skill directly on our platform** to start generating mind-blowing video prompts immediately! Furthermore, our platform is built for creators: you can use your own custom skills, or **share your skills** with the community to earn credits and rewards.
 
+<img width="2174" height="1153" alt="image" src="https://github.com/user-attachments/assets/2de0064b-c13c-47f5-bfde-e1eee852b116" />
+
+<img width="2169" height="1162" alt="image" src="https://github.com/user-attachments/assets/4b52c7d4-09a8-4f24-96af-6a887f096cb9" />
+
+
 *   🎁 **Share & Earn Credits:** Share your own AI resources, custom skills, and prompt templates on the platform to earn credits.
+<img width="2166" height="1162" alt="image" src="https://github.com/user-attachments/assets/5ca61184-e79f-4214-bb7a-fdbc6b537268" />
+
+
 *   🚀 **Create Instantly:** Render your generated cinematic prompts into high-quality videos using the built-in AI generation tools on **[ai9app.io](https://ai9app.io)**. 
 
 *Let's gen it!*
