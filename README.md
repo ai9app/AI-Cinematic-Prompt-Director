@@ -4,10 +4,10 @@
 
 Welcome to the **AI Cinematic Prompt Director**, an open-source framework proudly brought to you by **[ai9app.io](https://ai9app.io)**! 
 
-**ai9app** is your ultimate generative AI creative platform. Visit our app to discover a massive library of AI resources, professional prompts, and advanced AI creative tools built for creators. 
+**ai9app.io** is your ultimate generative AI creative platform. You can **use this skill directly on our platform** to start generating mind-blowing video prompts immediately! Furthermore, our platform is built for creators: you can use your own custom skills, or **share your skills** with the community to earn credits and rewards.
 
-*   🎁 **Share & Earn Credits:** Share your own AI resources, custom skills, and prompt templates with the community to earn credits directly on the platform.
-*   🚀 **Create Instantly:** You can use the prompt structures and skills provided in this repository to generate highly detailed prompts, and instantly render your videos using the AI generation tools on **[ai9app.io](https://ai9app.io)**. 
+*   🎁 **Share & Earn Credits:** Share your own AI resources, custom skills, and prompt templates on the platform to earn credits.
+*   🚀 **Create Instantly:** Render your generated cinematic prompts into high-quality videos using the built-in AI generation tools on **[ai9app.io](https://ai9app.io)**. 
 
 *Let's gen it!*
 
@@ -28,10 +28,12 @@ AI video models require highly specific, visually grounded language to produce c
 
 ## 🚀 How to Use
 
-### Method 1: Generate Directly on ai9app (Recommended)
+### Method 1: Use Directly on ai9app.io (Recommended)
+The fastest way to get started is to use this framework where it thrives best—on our AI creation platform.
 1. Head over to **[ai9app.io](https://ai9app.io)**.
-2. Utilize this integrated skill to automatically translate your raw ideas into structured video prompt matrices.
-3. Use your generated prompts to render breathtaking AI videos using the tools available on the platform.
+2. **Use the Skill:** Run this AI Cinematic Prompt Director skill directly on the platform to automatically translate your raw ideas into structured video prompt matrices.
+3. **Generate Video:** Feed your new prompts straight into our AI rendering engines.
+4. **Create & Share Your Own:** Have a unique workflow? You can create, use, and **share your own custom skills** on the platform to help the community and earn platform credits!
 
 ### Method 2: Build a Custom AI Agent
 1. Copy the entire contents of [`Cinematic-Prompt-Director-Skill.md`](./Cinematic-Prompt-Director-Skill.md).
