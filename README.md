@@ -65,3 +65,5 @@ We always welcome PRs and open-source contributions here on GitHub to expand the
 👉 **[Visit ai9app.io to Share and Earn!](https://ai9app.io)**  
 
 Have a brilliant new prompt framework? Discovered a secret parameter for Sora or Kling? Share your custom skills and AI resources on **ai9app**. Every valuable contribution allows you to **earn credits**, which you can use to fuel your own AI video generation and creative projects. Join our thriving community of elite AI creators today!
+
+![https://github.com/user-attachments/assets/2de0064b-c13c-47f5-bfde-e1eee852b116](images/cover.png)
