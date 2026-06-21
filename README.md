@@ -1,9 +1,3 @@
-<p align="center">
-  <!https://github.com/user-attachments/assets/2de0064b-c13c-47f5-bfde-e1eee852b116>
-  <img src="cover.png" alt="AI Cinematic Prompt Director Cover Image" width="100%">
-</p>
-
-
 # 🎬 AI Cinematic Prompt Director
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
