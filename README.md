@@ -1,3 +1,9 @@
+<p align="center">
+  <!--https://github.com/user-attachments/assets/2de0064b-c13c-47f5-bfde-e1eee852b116](images/cover.png-->
+  <img src="cover.png" alt="AI Cinematic Prompt Director Cover Image" width="100%">
+</p>
+
+
 # 🎬 AI Cinematic Prompt Director
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -66,4 +72,3 @@ We always welcome PRs and open-source contributions here on GitHub to expand the
 
 Have a brilliant new prompt framework? Discovered a secret parameter for Sora or Kling? Share your custom skills and AI resources on **ai9app**. Every valuable contribution allows you to **earn credits**, which you can use to fuel your own AI video generation and creative projects. Join our thriving community of elite AI creators today!
 
-![https://github.com/user-attachments/assets/2de0064b-c13c-47f5-bfde-e1eee852b116](images/cover.png)
