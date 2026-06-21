@@ -1,5 +1,5 @@
 <p align="center">
-  <!https://github.com/user-attachments/assets/2de0064b-c13c-47f5-bfde-e1eee852b116](images/cover.png>
+  <!https://github.com/user-attachments/assets/2de0064b-c13c-47f5-bfde-e1eee852b116>
   <img src="cover.png" alt="AI Cinematic Prompt Director Cover Image" width="100%">
 </p>
 
