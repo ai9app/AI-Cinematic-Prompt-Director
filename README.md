@@ -51,6 +51,8 @@ The fastest way to get started is to use this framework where it thrives best—
 ### Method 3: Manual Prompting
 Read through the 250-item knowledge base in the Markdown file to learn professional cinematography vocabulary and manually construct your prompts using our step-by-step matrix structure.
 
+Optional practice: use the nature, product, and transport scene ideas in [imgmov's written AI video prompt guide](https://imgmov.com/blog/2026-07-08-ai-video-prompts) to identify subject motion, camera movement, and lighting before arranging them in the framework's matrix.
+
 ---
 
 ## 📂 Repository Contents
